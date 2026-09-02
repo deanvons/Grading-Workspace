@@ -2,7 +2,7 @@
 description: Convert an assignment brief into a per-submission grading checklist, split into mechanically-verifiable items and instructor judgment calls. Pass the assignment slug or a path to its assignment.md.
 ---
 
-Read PROJECT.md and skills/pipeline-1-content-authoring/grading-rubric/SKILL.md carefully.
+Read PROJECT.md and skills/grading-rubric/SKILL.md carefully.
 
 The assignment to build a rubric for is: $ARGUMENTS
 

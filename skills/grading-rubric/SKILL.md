@@ -116,7 +116,7 @@ Adjust until confirmed. Do not save before confirmation.
 
 ## Step 8 — Save
 
-Save to `content/pool/assignments/[assignment-slug]/rubric.md`.
+Save to `assignment rubrics/[assignment-slug]/rubric.md`.
 
 ---
 
@@ -125,7 +125,7 @@ Save to `content/pool/assignments/[assignment-slug]/rubric.md`.
 ```markdown
 # Grading Rubric — [Assignment Title]
 
-**Source:** content/pool/assignments/[slug]/assignment.md
+**Source:** assigment specs/module-[n]-assignment.md
 **Generated:** [date]
 
 ---
