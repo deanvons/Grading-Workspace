@@ -138,8 +138,7 @@ as settled. The instructor decides what's worth saying to the student, and how.
 
 The output of this skill is feedback a real student will read, not an internal audit report
 being filed about them. Address them directly in the second person throughout — "you," "your" —
-the same convention `phase-authoring` uses for README content, for the same reason: this is a
-direct conversation with the person reading it.
+because this is a direct conversation with the person reading it.
 
 Wrong: "Vibeke — who inherited this codebase cold for the Phase 2 swap, with no chance to ask
 Christian for context — wrote in her own legacy-code notes... worth raising with Christian
@@ -214,10 +213,10 @@ the content — not something this skill does at any point in the process, draft
 
 ## A note on how this gets invoked
 
-This skill is most useful run from the same session/workspace that already has the content pool
-available (so the rubric and this SKILL.md are both reachable) — reference the student's cloned
-repo by its local path rather than needing it open as the active project root. If the instructor's
+Run this skill from this workspace (GradingWorkspace) so the rubric and this SKILL.md are both
+reachable — reference the student's submission by its local path rather than needing it open as
+the active project root. A convenient place to keep clones is a `submission repos/` folder inside
+this workspace (see README.md), but any local path works equally well. If the instructor's
 workflow instead opens each student repo as its own standalone project window, this file (plus
-the target rubric) needs to be copied into that repo's local working tree first, the same way
-`phase-authoring` was copied into `tractus-dotnet` for its autonomous run — ask which mode is in
-use if it isn't already clear from context.
+the target rubric) needs to be copied into that repo's local working tree first — ask which mode
+is in use if it isn't already clear from context.

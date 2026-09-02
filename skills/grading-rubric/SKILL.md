@@ -4,7 +4,7 @@
 > checklist — split into what can be verified mechanically (build, tests, git history) and what
 > stays an instructor judgment call (code quality, whether something is bad enough to flag).
 
-**Reads:** PROJECT.md · `assignment specs/module-[n]-assignment.md`
+**Reads:** PROJECT.md · `assigment specs/module-[n]-assignment.md`
 **Inputs:** Assignment number slug (or a path to its `assignment.md`)
 **Output:** `assignment rubrics/[assignment-slug]/rubric.md`
 
